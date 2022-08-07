@@ -12,4 +12,4 @@ jobs:
       - name: print hello world
         run: |
           echo "hello world"
-          ls- al
+          ls -al
