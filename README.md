@@ -1,1 +1,1 @@
-# custom-gihub-actions-spike
+# custom-github-actions-spike
